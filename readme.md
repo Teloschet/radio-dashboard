@@ -1,4 +1,4 @@
-# This is a Radio Panel
+# This is a Radio Dashboard
 - U can use this layout in your web-radio and website for sound control.
 
 # Program languages that use for make this web application

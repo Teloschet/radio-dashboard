@@ -1,0 +1,23 @@
+/* CREDITS FOR */
+/* TELOSCHET (TELOS) */
+/* PROJECT SINCE 15/02/2021 */
+
+body {
+    margin:0;
+    padding:0;
+}
+
+#tudo {
+    width: 1050px;
+    margin:0 auto;			
+    padding: 0;
+    text-align:left;   
+}
+
+/* LAYOUT */
+
+header {
+    width:100%;
+    height:72px;
+    background:#333;
+}
