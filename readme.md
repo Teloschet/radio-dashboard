@@ -7,6 +7,6 @@
 - PHP 
 - APACHE
 
-> Credits for this web application
-> Teloschet (Telos)
+> Credits for this web application <br>
+> Teloschet (Telos) <br>
 > Thank u for use!
